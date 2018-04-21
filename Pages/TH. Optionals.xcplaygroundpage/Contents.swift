@@ -70,10 +70,21 @@ enum Coin {
 let coins: [Coin] = [Coin.dime, .nickel, .penny, .penny, .quarter, .quarter, .quarter]
 
 func sum(having coins: [Coin]) -> Double{
-    var total = 0
-    
-    
-    return 1.0
-    
+    var total: Double = 0
+
+    for coin in coins{
+        switch coin {
+        case .dime: total += 0.10
+        case .nickel: total += 0.05
+        case .penny: total += 0.01
+        case .quarter: total += 0.25
+        }
+        
+        
+    }
+    return total
 }
+
+sum(having: coins)
+
 
