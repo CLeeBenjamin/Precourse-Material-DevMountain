@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='3. Conditionals'/>
+        <page name='4. Numbers'/>
+        <page name='5. Switch'/>
+        <page name='6. Loops'/>
+        <page name='7. Strings'/>
+        <page name='8. Optionals'/>
+        <page name='9. Arrays'/>
+        <page name='10. Dictionaries'/>
+        <page name='11. Sets'/>
+        <page name='12. Functions'/>
+        <page name='13. Closures'/>
+        <page name='14. Enumerations'/>
+        <page name='15. Structs and Classes'/>
+        <page name='16. Properties'/>
+        <page name='17. Initialization'/>
+        <page name='18. Value and Reference Types'/>
+        <page name='19. Protocols'/>
+        <page name='TH. Switch'/>
+        <page name='TH. Function'/>
+        <page name='TH. Object Oriented'/>
+        <page name='TH. Optionals'/>
+    </pages>
+</playground>
