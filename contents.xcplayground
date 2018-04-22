@@ -22,5 +22,7 @@
         <page name='TH. Function'/>
         <page name='TH. Object Oriented'/>
         <page name='TH. Optionals'/>
+        <page name='TH. Optional Chaining'/>
+        <page name='TH. Pattern Matching'/>
     </pages>
 </playground>
